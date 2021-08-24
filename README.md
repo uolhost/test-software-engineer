@@ -8,7 +8,7 @@ Todos os dias, uma pessoa do time de desenvolvimento fica responsável pela reso
 
 *Exemplo*:
 
-![Exemplo](img/imday.png)
+![Exemplo](/img/imday.png)
 
 #### O que são os Incidentes?
 
